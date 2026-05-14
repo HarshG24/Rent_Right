@@ -1,0 +1,9 @@
+text,label
+My sink has been leaking for two weeks and the landlord has not fixed it,repair_request
+The heater stopped working and my landlord ignored my repair request,repair_request
+I moved out last month and still have not received my deposit back,security_deposit
+My landlord kept my security deposit without giving an itemized explanation,security_deposit
+I paid on the third but was still charged a late fee,late_payment
+The landlord added a late charge even though I paid during the grace period,late_payment
+My lease says 30 days notice but I was asked to leave in one week,notice_issue
+I was told to vacate in seven days even though the lease requires written notice,notice_issue
